@@ -1,0 +1,19 @@
+{
+  "name": "alfredo",
+  "version": "1.0.0",
+  "description": "ElitePH bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GekiSoft/Alfredo.git"
+  },
+  "author": "cerealac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GekiSoft/Alfredo/issues"
+  },
+  "homepage": "https://github.com/GekiSoft/Alfredo#readme"
+}
